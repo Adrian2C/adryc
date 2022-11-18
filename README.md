@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Adrian2</h1>
-<h3 align="center">Front</h3>
+<h1 align="center">Hi 👋, I'm Adrian2C</h1>
+<h3 align="center">On the way to be the best Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian2c&label=Profile%20views&color=0e75b6&style=flat" alt="adrian2c" /> </p>
+
+- 🔭 I’m currently working on **Main Portfolio**
+
+- 🌱 I’m currently learning **Javascript / React**
+
+- 👯 I’m looking to collaborate on **different Front end proyects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Adrian2C?tab=repositories](https://github.com/Adrian2C?tab=repositories)
+
+- 📫 How to reach me **adriancoceres.93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
